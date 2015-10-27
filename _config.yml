@@ -1,0 +1,23 @@
+name: admin
+favicon: null
+layout_spectrum: 0.36685438361018896
+typography_spectrum: 0.7899460440967232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2963904596399516
+  lightness: 0.14773418381810188
+  saturation: 0.8884101225994527
+  rhythmicContrast: 0.11299382476136088
+purpose: []
