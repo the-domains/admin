@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[admin]]></title>
         <description><![CDATA[admin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/admin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 17:53:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 17:56:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/admin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined08398bf6-ab3e-4b34-8903-4db468751d42/index.html</link>
+            <description><![CDATA[<img src="http://imgs.xkcd.com/comics/troubleshooting_2x.png">]]></description>
+            <link>https://thegrid.ai/admin/5a70619d-a748-462b-ad27-2c618739a2d0/index.html</link>
+            <guid isPermaLink="false">5a70619d-a748-462b-ad27-2c618739a2d0</guid>
+            <pubDate>Tue, 27 Oct 2015 17:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/admin/08398bf6-ab3e-4b34-8903-4db468751d42/index.html</link>
             <guid isPermaLink="false">08398bf6-ab3e-4b34-8903-4db468751d42</guid>
             <pubDate>Tue, 27 Oct 2015 17:53:21 GMT</pubDate>
         </item>
